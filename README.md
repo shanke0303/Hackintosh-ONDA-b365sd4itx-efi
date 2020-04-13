@@ -4,6 +4,12 @@
 
 > `macos: Catalina 10.15.4`
 
+![系统概览](https://github.com/shanke0303/Hackintosh-ONDA-b365sd4itx-efi/blob/master/images/sum.png)
+
+![蓝牙](https://github.com/shanke0303/Hackintosh-ONDA-b365sd4itx-efi/blob/master/images/bt.png)
+
+![wifi](https://github.com/shanke0303/Hackintosh-ONDA-b365sd4itx-efi/blob/master/images/wifi.png)
+
 # 1. 主机配置
 * [主板] 昂达b365sd4-itx
 * [CPU] Intel Core i3-9100f

@@ -4,11 +4,11 @@
 
 > `macos: Catalina 10.15.4`
 
-![系统概览](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/blob/master/images/sum.png)
+![系统概览](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/raw/master/images/sum.png)
 
-![蓝牙](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/blob/master/images/bt.png)
+![蓝牙](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/raw/master/images/bt.png)
 
-![wifi](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/blob/master/images/wifi.png)
+![wifi](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/raw/master/images/wifi.png)
 
 # 1. 主机配置
 * [主板] 昂达b365sd4-itx

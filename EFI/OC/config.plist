@@ -708,18 +708,12 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
-			<key>MLB</key>
-			<string>C02ZTHZM0000XYZAB</string>
 			<key>ROM</key>
-			<data>AOBnGwsL</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02ZTHZM0000</string>
-			<key>SystemUUID</key>
-			<string>F0719191-AA2C-5962-B4CD-DDA3C225E5AB</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

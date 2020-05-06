@@ -2,6 +2,8 @@
 
 昂达(ONDA) b365sd4-itx efi for Hackintosh
 
+后续更新在码云发布：[地址连接](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi "小菜鸟爱学习")
+
 > `macos: Catalina 10.15.4`
 
 ![系统概览](https://gitee.com/523757325/Hackintosh-ONDA-b365sd4itx-efi/raw/master/images/sum.png)
